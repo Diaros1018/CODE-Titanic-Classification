@@ -25,7 +25,7 @@ In this code assignment, you are tasked to predict the survival of passengers ab
 3. Analytics Report
   * Include visualizations and your findings from your descriptive analytics
   * Include the results and visualizations from your 3 chosen classification models
-  * For each algorithm, report the precision and F1 Score.
+  * For each algorithm, report the accuracy and F1 Score.
 
 * Please upload your assignment.py file and your report to Blackboard
 
